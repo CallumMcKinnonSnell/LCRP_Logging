@@ -23,19 +23,3 @@ dependencies {
 
 file 'postals.json'
 postal_file 'postals.json'
-
-client_script '@WaveShield/xDxDxDxDxD.lua'
-
-client_script '@WaveShield/xDxDxDxDxD.lua'
-
-client_script '@WaveShield/xDxDxDxDxD.lua'
-
-client_script '@WaveShield/xDxDxDxDxD.lua'
-
-client_script '@WaveShield/xDxDxDxDxD.lua'
-
-client_script '@WaveShield/xDxDxDxDxD.lua'
-
-client_script '@WaveShield/xDxDxDxDxD.lua'
-
-client_script '@WaveShield/xDxDxDxDxD.lua'
