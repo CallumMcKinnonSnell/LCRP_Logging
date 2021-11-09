@@ -12,12 +12,12 @@ A simple logging script using discord embeds, written for Lost County RP.
 
 Parameters:
 
-message = The message you would like to display in the log
-sourceID = the server ID of the player
-secondPlayerID = The server ID of the second player - if it is an individual action, then use 0
-Colour = This should correspond to a value in the Config.Colours list
-Webhook = This should correspond to a value in the Config.WebHooks list
-isAdmin = boolean, determines whether to publish the player's IP address alongside the other information
+- message = The message you would like to display in the log
+- sourceID = the server ID of the player
+- secondPlayerID = The server ID of the second player - if it is an individual action, then use 0
+- Colour = This should correspond to a value in the Config.Colours list
+- Webhook = This should correspond to a value in the Config.WebHooks list
+- isAdmin = boolean, determines whether to publish the player's IP address alongside the other information  
 
 For example:
 ```exports.LCRP_Logging:discord(msg, _source, 0, 'Wash', 'Wash', false)```
