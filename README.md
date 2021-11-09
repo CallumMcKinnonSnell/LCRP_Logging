@@ -23,7 +23,8 @@ For example:
 ```exports.LCRP_Logging:discord(msg, _source, 0, 'Wash', 'Wash', false)```
 
 - This is a log taken of my own wash action:
-![Image of log](https://i.ibb.co/WgbcX9y/Screenshot-2021-11-09-at-10-34-13.png)
+![Image of log](https://i.ibb.co/WgbcX9y/Screenshot-2021-11-09-at-10-34-13.png)  
+
 The messsage was generated using the following codeline:
 
 ```local msg = GetPlayerName(source).. " has Just used the Money Wash. They washed £"..cash.. ", and received £"..newcash .. " they now have £"..xPlayer.getMoney()```
