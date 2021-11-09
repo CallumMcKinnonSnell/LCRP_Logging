@@ -2,7 +2,7 @@
 A simple logging script using discord embeds, written for Lost County RP
 
 
-## Dependencies
+## Dependencies
 - es_extended
 
 
