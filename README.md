@@ -1,5 +1,5 @@
 # LCRP Logging
-A simple logging script using discord embeds, written for Lost County RP
+A simple logging script using discord embeds, written for Lost County RP  
 
 ## Dependencies
 - es_extended
