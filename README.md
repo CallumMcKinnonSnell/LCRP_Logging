@@ -6,9 +6,12 @@ A simple logging script using discord embeds, written for Lost County RP.
 
 
 ### Usage
-- For a log action::
+- For a log action:
+
 ```exports.LCRP_Logging.discord(message, sourceID, secondPlayerID, 'COLOUR', 'WEBHOOK', isAdmin)```
+
 Parameters:
+
 message = The message you would like to display in the log
 sourceID = the server ID of the player
 secondPlayerID = The server ID of the second player - if it is an individual action, then use 0
